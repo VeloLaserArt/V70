@@ -1,0 +1,12 @@
+{
+  "name":"Spesa Facile",
+  "short_name":"Spesa Facile",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f8f4",
+  "theme_color":"#20b94b",
+  "lang":"it",
+  "icons":[
+    {"src":"./logo-spesa-facile.jpeg","sizes":"1536x1536","type":"image/jpeg","purpose":"any maskable"}
+  ]
+}
